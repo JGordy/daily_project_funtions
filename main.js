@@ -117,5 +117,6 @@ function madLib(book, person, fruit, meal) {
   return "For " + meal + ", " + person + " had an " + fruit + " and read " + book + "."
 }
 
+
 console.log(madLib("Harry Potter", "Joe", "apple", "lunch"));
 console.log(madLib("JavaScript and CSS by Jon Duckett", "Willy", "orange", "dinner"));
